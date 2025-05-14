@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# practicing\\interface_properites_prac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\smartac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\smartac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\smartheater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\smartheater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\ibillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\ibillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartAC.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartAC.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\SmartAC.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartAC.cs*",
+              "RelativeToolTip": "interface_properites_prac\\SmartAC.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:07:40.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartHeater.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartHeater.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\SmartHeater.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartHeater.cs*",
+              "RelativeToolTip": "interface_properites_prac\\SmartHeater.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:07:31.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartLight.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartLight.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\SmartLight.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartLight.cs*",
+              "RelativeToolTip": "interface_properites_prac\\SmartLight.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:06:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\SmartDevice.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\SmartDevice.cs*",
+              "RelativeToolTip": "interface_properites_prac\\SmartDevice.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:04:47.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBillable.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\IBillable.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\IBillable.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\IBillable.cs*",
+              "RelativeToolTip": "interface_properites_prac\\IBillable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:04:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\Program.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\Program.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\Program.cs*",
+              "RelativeToolTip": "interface_properites_prac\\Program.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:31:11.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

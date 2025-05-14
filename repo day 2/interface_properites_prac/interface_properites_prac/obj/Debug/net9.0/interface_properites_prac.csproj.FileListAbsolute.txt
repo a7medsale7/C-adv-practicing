@@ -1,0 +1,14 @@
+E:\c# practicing\interface_properites_prac\interface_properites_prac\bin\Debug\net9.0\interface_properites_prac.exe
+E:\c# practicing\interface_properites_prac\interface_properites_prac\bin\Debug\net9.0\interface_properites_prac.deps.json
+E:\c# practicing\interface_properites_prac\interface_properites_prac\bin\Debug\net9.0\interface_properites_prac.runtimeconfig.json
+E:\c# practicing\interface_properites_prac\interface_properites_prac\bin\Debug\net9.0\interface_properites_prac.dll
+E:\c# practicing\interface_properites_prac\interface_properites_prac\bin\Debug\net9.0\interface_properites_prac.pdb
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.AssemblyInfoInputs.cache
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.AssemblyInfo.cs
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.csproj.CoreCompileInputs.cache
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.dll
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\refint\interface_properites_prac.dll
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.pdb
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\interface_properites_prac.genruntimeconfig.cache
+E:\c# practicing\interface_properites_prac\interface_properites_prac\obj\Debug\net9.0\ref\interface_properites_prac.dll

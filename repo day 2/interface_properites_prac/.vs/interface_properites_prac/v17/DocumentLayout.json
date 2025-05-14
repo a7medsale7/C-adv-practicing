@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# practicing\\interface_properites_prac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|e:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B7926-D31D-4B74-A2D5-9B42ECF16056}|interface_properites_prac\\interface_properites_prac.csproj|solutionrelative:interface_properites_prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\Program.cs",
+              "RelativeDocumentMoniker": "interface_properites_prac\\Program.cs",
+              "ToolTip": "E:\\c# practicing\\interface_properites_prac\\interface_properites_prac\\Program.cs",
+              "RelativeToolTip": "interface_properites_prac\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:31:11.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
