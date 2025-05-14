@@ -1,0 +1,14 @@
+E:\c# practicing\polymerphism prac\polymerphism prac\bin\Debug\net9.0\polymerphism prac.exe
+E:\c# practicing\polymerphism prac\polymerphism prac\bin\Debug\net9.0\polymerphism prac.deps.json
+E:\c# practicing\polymerphism prac\polymerphism prac\bin\Debug\net9.0\polymerphism prac.runtimeconfig.json
+E:\c# practicing\polymerphism prac\polymerphism prac\bin\Debug\net9.0\polymerphism prac.dll
+E:\c# practicing\polymerphism prac\polymerphism prac\bin\Debug\net9.0\polymerphism prac.pdb
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.AssemblyInfoInputs.cache
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.AssemblyInfo.cs
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.csproj.CoreCompileInputs.cache
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.dll
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\refint\polymerphism prac.dll
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.pdb
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\polymerphism prac.genruntimeconfig.cache
+E:\c# practicing\polymerphism prac\polymerphism prac\obj\Debug\net9.0\ref\polymerphism prac.dll
