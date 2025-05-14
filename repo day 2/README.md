@@ -65,9 +65,6 @@ Implement IComparable<Employee> to sort by total salary.
 
 Expected Output:
 
-pgsql
-Copy
-Edit
 Omar (Freelancer): $3000.00
 Laila (Full-Time): $2800.00
 Ahmed (Part-Time): $1800.00
