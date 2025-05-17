@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# practicing\\Ienumreble prac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|e:\\c# practicing\\ienumreble prac\\ienumreble prac\\mediaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|solutionrelative:ienumreble prac\\mediaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|e:\\c# practicing\\ienumreble prac\\ienumreble prac\\medialibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|solutionrelative:ienumreble prac\\medialibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|e:\\c# practicing\\ienumreble prac\\ienumreble prac\\documentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|solutionrelative:ienumreble prac\\documentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|e:\\c# practicing\\ienumreble prac\\ienumreble prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|solutionrelative:ienumreble prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|e:\\c# practicing\\ienumreble prac\\ienumreble prac\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|solutionrelative:ienumreble prac\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|e:\\c# practicing\\ienumreble prac\\ienumreble prac\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54DB585-B9BE-4446-B80E-1885D2BE3FDE}|Ienumreble prac\\Ienumreble prac.csproj|solutionrelative:ienumreble prac\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaLibrary.cs",
+              "DocumentMoniker": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\MediaLibrary.cs",
+              "RelativeDocumentMoniker": "Ienumreble prac\\MediaLibrary.cs",
+              "ToolTip": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\MediaLibrary.cs",
+              "RelativeToolTip": "Ienumreble prac\\MediaLibrary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:18:21.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Documentary.cs",
+              "DocumentMoniker": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\Documentary.cs",
+              "RelativeDocumentMoniker": "Ienumreble prac\\Documentary.cs",
+              "ToolTip": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\Documentary.cs",
+              "RelativeToolTip": "Ienumreble prac\\Documentary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:12:29.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TVShow.cs",
+              "DocumentMoniker": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\TVShow.cs",
+              "RelativeDocumentMoniker": "Ienumreble prac\\TVShow.cs",
+              "ToolTip": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\TVShow.cs",
+              "RelativeToolTip": "Ienumreble prac\\TVShow.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:12:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\Movie.cs",
+              "RelativeDocumentMoniker": "Ienumreble prac\\Movie.cs",
+              "ToolTip": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\Movie.cs",
+              "RelativeToolTip": "Ienumreble prac\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:12:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaItem.cs",
+              "DocumentMoniker": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\MediaItem.cs",
+              "RelativeDocumentMoniker": "Ienumreble prac\\MediaItem.cs",
+              "ToolTip": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\MediaItem.cs*",
+              "RelativeToolTip": "Ienumreble prac\\MediaItem.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:10:41.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\Program.cs",
+              "RelativeDocumentMoniker": "Ienumreble prac\\Program.cs",
+              "ToolTip": "E:\\c# practicing\\Ienumreble prac\\Ienumreble prac\\Program.cs",
+              "RelativeToolTip": "Ienumreble prac\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv0cAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:55:07.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

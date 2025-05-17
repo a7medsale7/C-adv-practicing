@@ -1,0 +1,14 @@
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.AssemblyInfoInputs.cache
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.AssemblyInfo.cs
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.csproj.CoreCompileInputs.cache
+E:\c# practicing\Ienumreble prac\Ienumreble prac\bin\Debug\net9.0\Ienumreble prac.exe
+E:\c# practicing\Ienumreble prac\Ienumreble prac\bin\Debug\net9.0\Ienumreble prac.deps.json
+E:\c# practicing\Ienumreble prac\Ienumreble prac\bin\Debug\net9.0\Ienumreble prac.runtimeconfig.json
+E:\c# practicing\Ienumreble prac\Ienumreble prac\bin\Debug\net9.0\Ienumreble prac.dll
+E:\c# practicing\Ienumreble prac\Ienumreble prac\bin\Debug\net9.0\Ienumreble prac.pdb
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.dll
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\refint\Ienumreble prac.dll
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.pdb
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\Ienumreble prac.genruntimeconfig.cache
+E:\c# practicing\Ienumreble prac\Ienumreble prac\obj\Debug\net9.0\ref\Ienumreble prac.dll
