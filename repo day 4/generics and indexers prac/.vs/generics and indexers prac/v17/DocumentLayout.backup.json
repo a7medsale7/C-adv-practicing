@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# practicing\\generics and indexers prac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F72136-3A31-408E-A715-12F1258BDF1B}|generics and indexers prac\\generics and indexers prac.csproj|e:\\c# practicing\\generics and indexers prac\\generics and indexers prac\\prob5-classes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F72136-3A31-408E-A715-12F1258BDF1B}|generics and indexers prac\\generics and indexers prac.csproj|solutionrelative:generics and indexers prac\\prob5-classes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F72136-3A31-408E-A715-12F1258BDF1B}|generics and indexers prac\\generics and indexers prac.csproj|e:\\c# practicing\\generics and indexers prac\\generics and indexers prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F72136-3A31-408E-A715-12F1258BDF1B}|generics and indexers prac\\generics and indexers prac.csproj|solutionrelative:generics and indexers prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\c# practicing\\generics and indexers prac\\generics and indexers prac\\prob5-classes\\Course.cs",
+              "RelativeDocumentMoniker": "generics and indexers prac\\prob5-classes\\Course.cs",
+              "ToolTip": "E:\\c# practicing\\generics and indexers prac\\generics and indexers prac\\prob5-classes\\Course.cs*",
+              "RelativeToolTip": "generics and indexers prac\\prob5-classes\\Course.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:48:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c# practicing\\generics and indexers prac\\generics and indexers prac\\Program.cs",
+              "RelativeDocumentMoniker": "generics and indexers prac\\Program.cs",
+              "ToolTip": "E:\\c# practicing\\generics and indexers prac\\generics and indexers prac\\Program.cs*",
+              "RelativeToolTip": "generics and indexers prac\\Program.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:21:56.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\c# practicing\generics and indexers prac\generics and indexers prac\bin\Debug\net9.0\generics and indexers prac.exe
+E:\c# practicing\generics and indexers prac\generics and indexers prac\bin\Debug\net9.0\generics and indexers prac.deps.json
+E:\c# practicing\generics and indexers prac\generics and indexers prac\bin\Debug\net9.0\generics and indexers prac.runtimeconfig.json
+E:\c# practicing\generics and indexers prac\generics and indexers prac\bin\Debug\net9.0\generics and indexers prac.dll
+E:\c# practicing\generics and indexers prac\generics and indexers prac\bin\Debug\net9.0\generics and indexers prac.pdb
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.AssemblyInfoInputs.cache
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.AssemblyInfo.cs
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.csproj.CoreCompileInputs.cache
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.dll
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\refint\generics and indexers prac.dll
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.pdb
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\generics and indexers prac.genruntimeconfig.cache
+E:\c# practicing\generics and indexers prac\generics and indexers prac\obj\Debug\net9.0\ref\generics and indexers prac.dll
