@@ -1,0 +1,14 @@
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\bin\Debug\net9.0\Delegate prac.exe
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\bin\Debug\net9.0\Delegate prac.deps.json
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\bin\Debug\net9.0\Delegate prac.runtimeconfig.json
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\bin\Debug\net9.0\Delegate prac.dll
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\bin\Debug\net9.0\Delegate prac.pdb
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.AssemblyInfoInputs.cache
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.AssemblyInfo.cs
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.csproj.CoreCompileInputs.cache
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.dll
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\refint\Delegate prac.dll
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.pdb
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\Delegate prac.genruntimeconfig.cache
+E:\c# practicing\Delegates prac\Delegate prac\Delegate prac\obj\Debug\net9.0\ref\Delegate prac.dll
