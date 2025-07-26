@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# practicing\\all c# adv\\all c# adv topics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\isortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\isortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|e:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\studentnamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EC4BC5-D966-4639-9222-039BA56097E5}|all c# adv topics\\all c# adv topics.csproj|solutionrelative:all c# adv topics\\studentnamesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Logger.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Logger.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Logger.cs",
+              "RelativeToolTip": "all c# adv topics\\Logger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:56:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\CourseManager.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\CourseManager.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\CourseManager.cs*",
+              "RelativeToolTip": "all c# adv topics\\CourseManager.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:42:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Program.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Program.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Program.cs*",
+              "RelativeToolTip": "all c# adv topics\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:54:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Course.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Course.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Course.cs",
+              "RelativeToolTip": "all c# adv topics\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:19:26.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Extensions.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Extensions.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Extensions.cs",
+              "RelativeToolTip": "all c# adv topics\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:59:36.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Instructor.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Instructor.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Instructor.cs",
+              "RelativeToolTip": "all c# adv topics\\Instructor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:17:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\InstructorManager.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\InstructorManager.cs*",
+              "RelativeToolTip": "all c# adv topics\\InstructorManager.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:40:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISortable.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\ISortable.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\ISortable.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\ISortable.cs",
+              "RelativeToolTip": "all c# adv topics\\ISortable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:43:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\IUser.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\IUser.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\IUser.cs",
+              "RelativeToolTip": "all c# adv topics\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:21:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Person.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Person.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Person.cs",
+              "RelativeToolTip": "all c# adv topics\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:06:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Student.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Student.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Student.cs",
+              "RelativeToolTip": "all c# adv topics\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:09:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\StudentManager.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\StudentManager.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\StudentManager.cs",
+              "RelativeToolTip": "all c# adv topics\\StudentManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADgv0QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:26:48.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentNameSorter.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\StudentNameSorter.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\StudentNameSorter.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\StudentNameSorter.cs",
+              "RelativeToolTip": "all c# adv topics\\StudentNameSorter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:45:51.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Repository.cs",
+              "RelativeDocumentMoniker": "all c# adv topics\\Repository.cs",
+              "ToolTip": "E:\\c# practicing\\all c# adv\\all c# adv topics\\all c# adv topics\\Repository.cs",
+              "RelativeToolTip": "all c# adv topics\\Repository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:58:21.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

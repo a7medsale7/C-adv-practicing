@@ -1,0 +1,8 @@
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\bin\Debug\all c# adv topics.exe.config
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\bin\Debug\all c# adv topics.exe
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\bin\Debug\all c# adv topics.pdb
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\obj\Debug\all c# adv topics.csproj.AssemblyReference.cache
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\obj\Debug\all c# adv topics.csproj.CoreCompileInputs.cache
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\obj\Debug\all c# adv topics.exe
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\obj\Debug\all c# adv topics.pdb
+E:\c# practicing\all c# adv\all c# adv topics\all c# adv topics\obj\Debug\all c# adv topics.exe.config
